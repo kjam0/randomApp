@@ -34,7 +34,6 @@ def randomArray
   end
   p array.sample
 end
-
 p "Welcome to my this random app. Below are the options: "
 p "1. Random number generator."
 p "2. Random string genarator."
